@@ -3,3 +3,5 @@
 new line
 
 new new line
+
+New line to be merged.
